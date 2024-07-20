@@ -1,0 +1,26 @@
+{
+  "name": "cypresstests",
+  "version": "1.0.0",
+  "description": "Qa Challenge",
+  "main": "index.js",
+  "scripts": 
+  {
+     "test:cypress": "cypress run --spec 'cypress/integration/spec1.cy.js,cypress/integration/spec2.cy.js,cypress/integration/spec3.cy.js,cypress/integration/spec4.cy.js,cypress/integration/spec5.cy.js,cypress/integration/pokespec1.cy.js,cypress/integration/pokespec1b.cy.js,cypress/integration/pokespec2.cy.js,cypress/integration/pokespec2b.cy.js,cypress/integration/pokespec3.cy.js,'"
+  },
+  "repository": 
+  {
+    "type": "git",
+    "url": "git+https://github.com/PinoLopez/BriteTest.git"
+  },
+  "keywords": 
+  [
+    "test"
+  ],
+  "author": "Juan Pino",
+  "license": "ISC",
+  "bugs": 
+  {
+    "url": "https://github.com/PinoLopez/BriteTest/issues"
+  },
+  "homepage": "https://github.com/PinoLopez/BriteTest#readme"
+}

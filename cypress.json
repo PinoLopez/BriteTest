@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.imdb.com/",
+  "integrationFolder": "cypress/integration",
+  "fixturesFolder": "cypress/fixtures",
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.js"
+}
